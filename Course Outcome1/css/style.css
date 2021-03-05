@@ -1,0 +1,16 @@
+
+button
+{
+	background: pink;
+	border: none;
+	padding: 10pv;
+	color: blue
+}
+
+.but1:hover
+{
+	background: yellow;
+    border: none;
+	padding: 10pv;
+	color: green;
+}
